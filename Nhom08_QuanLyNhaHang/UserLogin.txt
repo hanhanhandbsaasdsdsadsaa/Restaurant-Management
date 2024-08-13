@@ -1,0 +1,4 @@
+- Người quản lý:
+	+ username = ndh@gmail.com, password = 123
+- Nhân viên:
+	+ username = pth@gmail.com, password = 123
